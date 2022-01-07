@@ -1,2 +1,3 @@
-# casnu
-The main location of the lojban todo list (use Discussions tab)
+# Description
+
+Please, use [https://github.com/lojban/casnu/discussions Discussions] to discuss Lojban and Lojbanistan-related projects to do, bugs, issues...
